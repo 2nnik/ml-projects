@@ -10,9 +10,9 @@ A feedforward neural network built from scratch using NumPy to recognize handwri
 
 **Technologies:** NumPy, Pillow, Matplotlib
 
-### 📊 Sales Data Analysis
+### 📊 Database Basics
 
-A data analysis project that simulates product sales, handles missing values, calculates revenue, and visualizes business insights using bar and line charts.
+A data analysis project that simulates product sales, handles missing values, calculates revenue, and visualizes business insights using bar and line charts. Covers standard usage of NumPy, pandas, and matplotlib in a single file.
 
 **Technologies:** Pandas, NumPy, Matplotlib
 
